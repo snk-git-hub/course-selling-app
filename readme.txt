@@ -1,3 +1,10 @@
+to do's:
+* add zod in admin
+* payment cheking in course
+* make a frontend
+* improve logic
+
+
 course-selling-app/
 ├── backend/
    ├── index.js
